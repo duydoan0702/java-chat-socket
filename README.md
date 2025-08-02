@@ -4,18 +4,10 @@
 
 # Simple Chat Application
 
-```
-GVHD: Nguyễn Hồng Nam
-```
+
 ```
 SV thực hiện: 
-   [Hide]
-   [Hide]
-   [Hide]
-   [Hide]
-```
-```
-Tp. Hồ Chí Minh, Tháng 10/2018
+   Đoàn Văn Duy - 23NS014
 ```
 
 ## Mục lục
